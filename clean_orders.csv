@@ -1,0 +1,61 @@
+order_id,order_date,customer_name,email,item,amount
+ORD-1001,2026-04-10,Ananya Nair,ananya.nair@example.com,Mechanical Keyboard,3499.0
+ORD-1002,2026-03-22,Rohan Singh,rohan.singh@mailbox.in,Mechanical Keyboard,3449.0
+ORD-1003,2026-04-15,Karthik Reddy,karthik.reddy@example.com,Monitor 24in,9999.0
+ORD-1004,2026-05-09,Rohan Iyer,rohan.iyer@mailbox.in,Laptop Stand,1399.0
+ORD-1005,2026-03-15,Meera Patel,meera.patel@mailbox.in,Laptop Stand,1399.0
+ORD-1006,2026-03-08,Arjun Verma,arjun.verma@workmail.com,Desk Lamp,749.0
+ORD-1007,2026-04-23,Meera Sharma,meera.sharma@mailbox.in,Laptop Stand,1299.0
+ORD-1008,2026-03-09,Arjun Iyer,arjun.iyer@example.com,Headphones,2099.0
+ORD-1009,2026-04-19,Rahul Menon,rahul.menon@mailbox.in,Power Bank,1499.0
+ORD-1010,2026-03-25,Aarav Iyer,aarav.iyer@mailbox.in,Headphones,1999.0
+ORD-1011,2026-04-03,Arjun Verma,arjun.verma@workmail.com,Monitor 24in,10099.0
+ORD-1012,2026-04-28,Aarav Iyer,aarav.iyer@mailbox.in,Webcam HD,2599.0
+ORD-1013,2026-03-10,Nisha Verma,nisha.verma@example.com,Desk Lamp,749.0
+ORD-1014,2026-04-25,Ananya Iyer,ananya.iyer@workmail.com,Webcam HD,2449.0
+ORD-1015,2026-04-07,Arjun Iyer,arjun.iyer@example.com,Phone Case,399.0
+ORD-1016,2026-03-20,Nisha Verma,nisha.verma@example.com,Phone Case,349.0
+ORD-1017,2026-03-02,Rohan Iyer,rohan.iyer@mailbox.in,Webcam HD,2449.0
+ORD-1018,2026-03-25,Ananya Iyer,ananya.iyer@workmail.com,Headphones,1999.0
+ORD-1019,2026-04-17,Meera Patel,meera.patel@mailbox.in,USB-C Hub,1799.0
+ORD-1020,2026-05-10,Nisha Verma,nisha.verma@example.com,Laptop Stand,1299.0
+ORD-1021,2026-03-08,Karthik Gupta,karthik.gupta@mailbox.in,Mechanical Keyboard,3449.0
+ORD-1022,2026-04-08,Meera Patel,meera.patel@mailbox.in,Laptop Stand,1249.0
+ORD-1023,2026-04-03,Meera Sharma,meera.sharma@mailbox.in,Wireless Mouse,899.0
+ORD-1024,2026-03-24,Rohan Singh,rohan.singh@mailbox.in,Phone Case,399.0
+ORD-1025,2026-03-04,Meera Joshi,meera.joshi@example.com,Monitor 24in,9999.0
+ORD-1026,2026-05-02,Rohan Verma,rohan.verma@example.com,Headphones,1949.0
+ORD-1027,2026-03-08,Ananya Iyer,ananya.iyer@workmail.com,Desk Lamp,849.0
+ORD-1028,2026-03-09,Ananya Joshi,ananya.joshi@example.com,Monitor 24in,9949.0
+ORD-1029,2026-03-21,Meera Patel,meera.patel@mailbox.in,Mechanical Keyboard,3449.0
+ORD-1030,2026-04-16,Sneha Nair,sneha.nair@workmail.com,Monitor 24in,9949.0
+ORD-1031,2026-04-09,Ananya Nair,ananya.nair@example.com,Wireless Mouse,899.0
+ORD-1032,2026-03-07,Arjun Verma,arjun.verma@workmail.com,Headphones,1949.0
+ORD-1033,2026-03-24,Ananya Iyer,ananya.iyer@workmail.com,Phone Case,349.0
+ORD-1034,2026-04-06,Meera Joshi,meera.joshi@example.com,Phone Case,349.0
+ORD-1035,2026-03-22,Meera Sharma,meera.sharma@mailbox.in,Power Bank,1449.0
+ORD-1036,2026-04-02,Rohan Reddy,rohan.reddy@mailbox.in,Power Bank,1499.0
+ORD-1037,2026-04-09,Rohan Nair,rohan.nair@workmail.com,Phone Case,399.0
+ORD-1038,2026-05-21,Ananya Nair,ananya.nair@example.com,USB-C Hub,1799.0
+ORD-1039,2026-04-19,Rohan Menon,rohan.menon@mailbox.in,Headphones,2099.0
+ORD-1040,2026-03-12,Aarav Iyer,aarav.iyer@mailbox.in,Webcam HD,2499.0
+ORD-1041,2026-04-23,Sneha Nair,sneha.nair@workmail.com,Headphones,2099.0
+ORD-1042,2026-04-22,Arjun Verma,arjun.verma@workmail.com,Phone Case,399.0
+ORD-1043,2026-03-09,Karthik Reddy,karthik.reddy@example.com,Phone Case,399.0
+ORD-1044,2026-04-16,Rohan Singh,rohan.singh@mailbox.in,Webcam HD,2449.0
+ORD-1045,2026-03-11,Rahul Menon,rahul.menon@mailbox.in,Wireless Mouse,899.0
+ORD-1046,2026-04-01,Meera Patel,meera.patel@mailbox.in,Monitor 24in,9999.0
+ORD-1047,2026-04-18,Aarav Singh,aarav.singh@workmail.com,Desk Lamp,749.0
+ORD-1048,2026-03-12,Aarav Menon,aarav.menon@example.com,Desk Lamp,699.0
+ORD-1049,2026-04-20,Nisha Verma,nisha.verma@example.com,Phone Case,399.0
+ORD-1050,2026-03-06,Sneha Nair,sneha.nair@workmail.com,Monitor 24in,9999.0
+ORD-1051,2026-05-04,Rahul Menon,rahul.menon@mailbox.in,USB-C Hub,1799.0
+ORD-1052,2026-04-10,Rohan Singh,rohan.singh@mailbox.in,Headphones,1949.0
+ORD-1053,2026-04-28,Ananya Nair,ananya.nair@example.com,Desk Lamp,749.0
+ORD-1054,2026-04-01,Ananya Nair,ananya.nair@example.com,Phone Case,399.0
+ORD-1055,2026-03-20,Rahul Menon,rahul.menon@mailbox.in,Wireless Mouse,899.0
+ORD-1056,2026-03-13,Divya Patel,divya.patel@mailbox.in,Phone Case,399.0
+ORD-1057,2026-03-17,Karthik Verma,karthik.verma@mailbox.in,Monitor 24in,9999.0
+ORD-1058,2026-04-11,Meera Sharma,meera.sharma@mailbox.in,Desk Lamp,749.0
+ORD-1059,2026-04-13,Aarav Menon,aarav.menon@example.com,Monitor 24in,10099.0
+ORD-1060,2026-05-13,Rohan Singh,rohan.singh@mailbox.in,Monitor 24in,10099.0
